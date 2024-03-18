@@ -23,7 +23,7 @@ namespace Online_Shop
                 string username = Session["AuthenticatedUser"].ToString();
 
                
-                greetingLabel.Text = $"Hi {username}, Welcome to our Online Shop!";
+                greetingLabel.Text = $"Hi {username}, Welcome to Dirk Thrift Shop!";
             }
         }
     }

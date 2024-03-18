@@ -167,9 +167,6 @@
             <div class="section feedbacks-section" onclick="viewFeedbacks()">
                 <h2>Feedbacks</h2>
             </div>
-            <div class="section settings-section" onclick="viewSettings()">
-                <h2>Settings</h2>
-            </div>
             <div class="section logout-section" onclick="logout()">
                 <h2>Log Out</h2>
             </div>
@@ -179,7 +176,7 @@
         <div class="slider-container">
             <div class="slider-content">
               <div class="slider-item">
-                <img src="/images/dirk.png" alt="Image 1" class="slider-image">
+                <img src="/images/dirkyu.png" alt="Image 1" class="slider-image">
             </div>
             <div class="slider-item">
                 <img src="/images/thrift.jpg" alt="Image 2" class="slider-image">

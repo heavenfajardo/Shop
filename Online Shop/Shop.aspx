@@ -17,11 +17,7 @@
         <div class="container">
             <h1>Shop</h1>
           
-            <div class="form-group">
-                <input type="text" id="txtSearch" runat="server" class="form-control" placeholder="Search...">
-            </div>
-            
-            
+                    
             <ul class="nav nav-tabs">
                 <li class="nav-item">
                     <a class="nav-link" data-toggle="tab" href="#men">Men</a>

@@ -99,7 +99,7 @@
             <div>
                 <asp:Button ID="ViewMenuButton" runat="server" Text="View Menu" OnClick="ViewMenuButton_Click" CssClass="btn btn-view-menu" />
                 <asp:Button ID="PayGcashButton" runat="server" Text="Pay via Gcash" OnClick="PayGcashButton_Click" CssClass="btn-pay-gcash" />
-                <asp:Button ID="AddMoreProductsButton" runat="server" Text="Add More Products" OnClick="AddMoreProductsButton_Click" CssClass="btn btn-view-menu" />
+                <asp:Button ID="AddMoreProductsButton" runat="server" Text="Add Products" OnClick="AddMoreProductsButton_Click" CssClass="btn btn-view-menu" />
             </div>
         </div>
     </form>
